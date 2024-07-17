@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.roundgluteo.com	TRUE	/selecione-seu-procedimento	FALSE	1999999999	gpages_user	%7B%22ip%22%3A%222804%3A14d%3A2a73%3A9996%3Abc63%3Ada12%3A8d65%3A7fd4%22%2C%22agent%22%3A%22Mozilla%2F4.5%20(compatible%3B%20HTTrack%203.0x%3B%20Windows%2098)%22%2C%22country%22%3A%22BR%22%2C%22state%22%3A%22RJ%22%2C%22city%22%3A%22Niter%C3%B3i%22%2C%22eId%22%3A%22GPages.O4a91721247858538%22%7D
+www.roundgluteo.com	TRUE	/procedimentos	FALSE	1999999999	gpages_user	%7B%22ip%22%3A%222804%3A14d%3A2a73%3A9996%3Abc63%3Ada12%3A8d65%3A7fd4%22%2C%22agent%22%3A%22Mozilla%2F4.5%20(compatible%3B%20HTTrack%203.0x%3B%20Windows%2098)%22%2C%22country%22%3A%22BR%22%2C%22state%22%3A%22RJ%22%2C%22city%22%3A%22Niter%C3%B3i%22%2C%22eId%22%3A%22GPages.gxJP1721247859445%22%7D
+www.roundgluteo.com	TRUE	/sobre-nos	FALSE	1999999999	gpages_user	%7B%22ip%22%3A%222804%3A14d%3A2a73%3A9996%3Abc63%3Ada12%3A8d65%3A7fd4%22%2C%22agent%22%3A%22Mozilla%2F4.5%20(compatible%3B%20HTTrack%203.0x%3B%20Windows%2098)%22%2C%22country%22%3A%22BR%22%2C%22state%22%3A%22RJ%22%2C%22city%22%3A%22Niter%C3%B3i%22%2C%22eId%22%3A%22GPages.CRwl1721247859757%22%7D
+www.roundgluteo.com	TRUE	/idiomas	FALSE	1999999999	gpages_user	%7B%22ip%22%3A%222804%3A14d%3A2a73%3A9996%3Abc63%3Ada12%3A8d65%3A7fd4%22%2C%22agent%22%3A%22Mozilla%2F4.5%20(compatible%3B%20HTTrack%203.0x%3B%20Windows%2098)%22%2C%22country%22%3A%22BR%22%2C%22state%22%3A%22RJ%22%2C%22city%22%3A%22Niter%C3%B3i%22%2C%22eId%22%3A%22GPages.DZHM1721247860370%22%7D
+.www.roundgluteo.com	TRUE	/	FALSE	1999999999	__cf_bm	rVwZgqp516MwfTbfY1WP_pnMwl89kFaFRDEOiyr8c3g-1721247864-1.0.1.1-u1QIDjVtLyrrl4xkvub.t87QDFay5iOop9NCv2_8gvJKu99Jt6NbbtypMz5HUe3KsFFs09YMAyZjS2D8957x9w
+www.roundgluteo.com	TRUE	/	FALSE	1999999999	SameSite	None
+
